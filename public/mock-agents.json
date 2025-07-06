@@ -1,0 +1,42 @@
+[
+  {
+    "id": "agent-001",
+    "name": "Intelligent Chatbot Pro",
+    "description": "An advanced AI chatbot for enhanced customer support and query resolution.",
+    "status": "Active",
+    "category": "Customer Service",
+    "pricingModel": "Subscription"
+  },
+  {
+    "id": "agent-002",
+    "name": "Voice Assistant X",
+    "description": "Next-generation voice automation for internal operations and data retrieval.",
+    "status": "Beta",
+    "category": "Operations",
+    "pricingModel": "Per-Use"
+  },
+  {
+    "id": "agent-003",
+    "name": "Marketing Content Generator",
+    "description": "AI-powered tool to generate engaging marketing copy, ideas, and campaign outlines.",
+    "status": "Active",
+    "category": "Marketing",
+    "pricingModel": "Subscription"
+  },
+  {
+    "id": "agent-004",
+    "name": "Data Analyst Agent",
+    "description": "An autonomous AI agent designed to automate data analysis and report generation.",
+    "status": "Archived",
+    "category": "Data Analysis",
+    "pricingModel": "Free Tier"
+  },
+  {
+    "id": "agent-005",
+    "name": "Code Review Assistant",
+    "description": "AI assistant that provides instant feedback and suggestions for code quality.",
+    "status": "Beta",
+    "category": "Development",
+    "pricingModel": "Free Tier"
+  }
+]
