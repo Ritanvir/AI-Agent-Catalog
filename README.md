@@ -29,12 +29,12 @@ Framer Motion
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/ArkLab-AI-Agent-Catalog.git
+git clone https://github.com/RI_Tanvir/ArkLab-AI-Agent-Catalog.git
 cd ArkLab-AI-Agent-Catalog
 npm install
 
 cp .env.local.example .env.local
-# Add your Google Client ID/Secret
+
 
 npm run dev
 🔐 Google OAuth
